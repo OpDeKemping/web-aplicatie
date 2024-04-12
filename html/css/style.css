@@ -1,0 +1,217 @@
+*{margin:0 ; padding: 0;}
+
+/* custom parts */
+
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.rebar{
+    height: 150px;
+    width: 100%;
+    margin: 0px;
+    padding: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+}
+
+.logoplace{
+    height: 150px;
+}
+
+.redbutton{
+    height: 60px;
+    width: 125px;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* dividers */
+
+
+
+/* 50% */
+
+.splitxx50{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splitxy50{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splityx50{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splityy50{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* 25% */
+
+.splitxx25{
+    height: 100%;
+    width: 25%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splitxy25{
+    height: 100%;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splityx25{
+    height: 25%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splityy25{
+    height: 25%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* 75% */
+
+.splitxx75{
+    height: 100%;
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splitxy75{
+    height: 100%;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splityx75{
+    height: 75%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splityy75{
+    height: 75%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* 1/3 */
+
+.splitxx13{
+    height: 100%;
+    width: 33.33333%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splitxy13{
+    height: 100%;
+    width: 33.33333%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splityx13{
+    height: 33.33333%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.splityy13{
+    height: 33.33333%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* stress */
+
+
+
+
+.stress1x{
+    height: 100%;
+    width: 20%;
+}
+    
+.stress1y{
+    height: 100%;
+    width: 20%;
+}
+
+/* breathing room */
+
+.slinex{
+    width: 100%;
+    height: 5px;
+}
+.sliney{
+    width: 5px;
+    height: 100%;
+}
